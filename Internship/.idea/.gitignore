@@ -1,6 +1,9 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/Ionut^02031984
-/.iml
+Ionut^02031984/
+*.iml
+*.java
+*.class
+*.pub
 
