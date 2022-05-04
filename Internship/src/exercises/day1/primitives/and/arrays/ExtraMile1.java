@@ -12,15 +12,15 @@ public class ExtraMile1 {
     boolean myBoolean = true;
     char myChar = 'c';
 
-    public void printMyPrimitive(){
-        System.out.println("The minimum 'short' value is : "+myMinShort+ " and the maximum 'short' value is : "+myMaxShort);
-        System.out.println("The minimum 'byte' value is : "+myMinByte+ " and the maximum 'byte' value is : "+myMaxByte);
-        System.out.println("My 'int' value is : "+ myInt);
-        System.out.println("My 'long' value is : "+ myLong);
-        System.out.println("My 'float' value is : "+ myFloat);
-        System.out.println("My 'double' value is : "+ myDouble);
-        System.out.println("My 'boolean' value is : "+ myBoolean);
-        System.out.println("My 'char' value is : "+myChar);
+    public void printMyPrimitive() {
+        System.out.println("The minimum 'short' value is : " + myMinShort + " and the maximum 'short' value is : " + myMaxShort);
+        System.out.println("The minimum 'byte' value is : " + myMinByte + " and the maximum 'byte' value is : " + myMaxByte);
+        System.out.println("My 'int' value is : " + myInt);
+        System.out.println("My 'long' value is : " + myLong);
+        System.out.println("My 'float' value is : " + myFloat);
+        System.out.println("My 'double' value is : " + myDouble);
+        System.out.println("My 'boolean' value is : " + myBoolean);
+        System.out.println("My 'char' value is : " + myChar);
 
     }
 

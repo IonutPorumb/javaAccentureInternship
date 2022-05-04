@@ -6,4 +6,6 @@ Ionut^02031984/
 *.java
 *.class
 *.pub
+/MyClass.class
+/MyClass.java
 
